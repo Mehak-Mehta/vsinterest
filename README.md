@@ -8,3 +8,5 @@ Below are the repos which do not belong to me. ALL THE CREDIT FOR THE FOLLOWING 
 - vstodo <a href="https://github.com/benawad">@benawad</a>
 
 Made and Owner by <a href="https://github.com/Mehak-Mehta">Mehak Mehta</a>
+
+### This Idea was inspired by <a href="https://github.com/Prachi204">@Prachi204</a>
