@@ -1,0 +1,1 @@
+{"version":3,"sources":["sidebar.css"],"names":[],"mappings":"AAAA,sBAAsB;CACrB,CAAC,iBAAiB,oBAAoB,CAAC,uBAAuB,UAAU,CAAC,uBAAuB,UAAU","file":"sidebar.css","sourcesContent":[".links.svelte-1nr8jn4{margin:5px\r\n\t}a.svelte-1nr8jn4{text-decoration:none}a.svelte-1nr8jn4:hover{color:pink}.header.svelte-1nr8jn4{margin:2px}"]}
