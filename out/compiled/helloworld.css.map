@@ -1,1 +1,0 @@
-{"version":3,"sources":["HelloWorld.css"],"names":[],"mappings":"AAAA,sBAAsB;;CAErB,CAAC,iBAAiB,oBAAoB,CAAC,uBAAuB,UAAU,CAAC,uBAAuB,UAAU","file":"helloworld.css","sourcesContent":[".links.svelte-1lwn8p5{margin:5px\r\n\t\r\n\t}a.svelte-1lwn8p5{text-decoration:none}a.svelte-1lwn8p5:hover{color:pink}.header.svelte-1lwn8p5{margin:2px}"]}
