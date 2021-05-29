@@ -1,0 +1,1 @@
+{"version":3,"sources":["HelloWorld.css"],"names":[],"mappings":"AAAA,qBAAqB,UAAU,CAAC,iBAAiB,CAAC,gBAAgB,oBAAoB,CAAC,sBAAsB,UAAU,CAAC,sBAAsB,UAAU","file":"helloworld.css","sourcesContent":[".links.svelte-vgcmpv{margin:5px;text-align:Center}a.svelte-vgcmpv{text-decoration:none}a.svelte-vgcmpv:hover{color:pink}.header.svelte-vgcmpv{margin:2px}"]}
