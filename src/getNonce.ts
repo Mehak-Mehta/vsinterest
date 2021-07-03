@@ -6,3 +6,4 @@ export function getNonce() {
 	}
 	return text;
 }
+// random id //
